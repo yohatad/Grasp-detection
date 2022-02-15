@@ -1,0 +1,5 @@
+[19:07:05] {c:\Users\Yohannes\Desktop\M.ScThesis\Code\Grasp\train_network.py:222} INFO - Loading cornell Dataset...
+[19:07:05] {c:\Users\Yohannes\Desktop\M.ScThesis\Code\Grasp\train_network.py:231} INFO - Dataset size is 885
+[19:07:05] {c:\Users\Yohannes\Desktop\M.ScThesis\Code\Grasp\train_network.py:240} INFO - Training size: 796
+[19:07:05] {c:\Users\Yohannes\Desktop\M.ScThesis\Code\Grasp\train_network.py:241} INFO - Validation size: 89
+[19:07:05] {c:\Users\Yohannes\Desktop\M.ScThesis\Code\Grasp\train_network.py:259} INFO - Done

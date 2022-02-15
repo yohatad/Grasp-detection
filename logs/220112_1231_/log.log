@@ -1,0 +1,9 @@
+[12:31:03] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\hardware\device.py:10} INFO - With GPU acceleration (CUDA found).
+[12:31:03] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:246} INFO - Loading Cornell Dataset...
+[12:31:03] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:255} INFO - Dataset size is 885
+[12:31:03] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:264} INFO - Training size: 796
+[12:31:03] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:265} INFO - Validation size: 89
+[12:31:03] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:283} INFO - Done
+[12:31:03] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:286} INFO - Loading Network...
+[12:31:04] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:297} INFO - Done
+[12:31:08] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:316} INFO - Beginning Epoch 00

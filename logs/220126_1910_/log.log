@@ -1,0 +1,11 @@
+[19:10:31] {c:\Users\Yohannes\Desktop\M.ScThesis\Code\Grasp\train_network.py:212} INFO - Loading cornell Dataset...
+[19:10:31] {c:\Users\Yohannes\Desktop\M.ScThesis\Code\Grasp\train_network.py:221} INFO - Dataset size is 885
+[19:10:31] {c:\Users\Yohannes\Desktop\M.ScThesis\Code\Grasp\train_network.py:230} INFO - Training size: 796
+[19:10:31] {c:\Users\Yohannes\Desktop\M.ScThesis\Code\Grasp\train_network.py:231} INFO - Validation size: 89
+[19:10:31] {c:\Users\Yohannes\Desktop\M.ScThesis\Code\Grasp\train_network.py:249} INFO - Done
+[19:10:50] {c:\Users\Yohannes\Desktop\M.ScThesis\Code\Grasp\train_network.py:212} INFO - Loading cornell Dataset...
+[19:10:50] {c:\Users\Yohannes\Desktop\M.ScThesis\Code\Grasp\train_network.py:221} INFO - Dataset size is 885
+[19:10:50] {c:\Users\Yohannes\Desktop\M.ScThesis\Code\Grasp\train_network.py:230} INFO - Training size: 796
+[19:10:50] {c:\Users\Yohannes\Desktop\M.ScThesis\Code\Grasp\train_network.py:231} INFO - Validation size: 89
+[19:10:50] {c:\Users\Yohannes\Desktop\M.ScThesis\Code\Grasp\train_network.py:249} INFO - Done
+[19:10:50] {c:\Users\Yohannes\Desktop\M.ScThesis\Code\Grasp\train_network.py:261} INFO - Beginning Epoch 00

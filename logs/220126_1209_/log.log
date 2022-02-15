@@ -1,0 +1,8 @@
+[12:09:05] {c:\Users\Yohannes\Desktop\M.ScThesis\Code\Grasp\train_network.py:228} INFO - Loading Cornell Dataset...
+[12:09:47] {c:\Users\Yohannes\Desktop\M.ScThesis\Code\Grasp\train_network.py:228} INFO - Loading Cornell Dataset...
+[12:09:47] {c:\Users\Yohannes\Desktop\M.ScThesis\Code\Grasp\train_network.py:237} INFO - Dataset size is 885
+[12:09:47] {c:\Users\Yohannes\Desktop\M.ScThesis\Code\Grasp\train_network.py:246} INFO - Training size: 796
+[12:09:47] {c:\Users\Yohannes\Desktop\M.ScThesis\Code\Grasp\train_network.py:247} INFO - Validation size: 89
+[12:09:47] {c:\Users\Yohannes\Desktop\M.ScThesis\Code\Grasp\train_network.py:265} INFO - Done
+[12:09:47] {c:\Users\Yohannes\Desktop\M.ScThesis\Code\Grasp\train_network.py:277} INFO - Beginning Epoch 00
+[12:10:39] {c:\Users\Yohannes\Desktop\M.ScThesis\Code\Grasp\train_network.py:174} INFO - Epoch: 0, Batch: 100, Loss: 0.0642

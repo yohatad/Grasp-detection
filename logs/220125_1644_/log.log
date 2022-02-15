@@ -1,0 +1,32 @@
+[16:44:28] {c:\Users\Yohannes\Desktop\M.ScThesis\Code\Grasp\hardware\device.py:10} INFO - With GPU acceleration (CUDA found).
+[16:44:28] {c:\Users\Yohannes\Desktop\M.ScThesis\Code\Grasp\train_network.py:246} INFO - Loading Cornell Dataset...
+[16:44:28] {c:\Users\Yohannes\Desktop\M.ScThesis\Code\Grasp\train_network.py:255} INFO - Dataset size is 885
+[16:44:28] {c:\Users\Yohannes\Desktop\M.ScThesis\Code\Grasp\train_network.py:264} INFO - Training size: 796
+[16:44:28] {c:\Users\Yohannes\Desktop\M.ScThesis\Code\Grasp\train_network.py:265} INFO - Validation size: 89
+[16:44:28] {c:\Users\Yohannes\Desktop\M.ScThesis\Code\Grasp\train_network.py:283} INFO - Done
+[16:44:28] {c:\Users\Yohannes\Desktop\M.ScThesis\Code\Grasp\train_network.py:286} INFO - Loading Network...
+[16:44:28] {c:\Users\Yohannes\Desktop\M.ScThesis\Code\Grasp\train_network.py:297} INFO - Done
+[16:44:33] {c:\Users\Yohannes\Desktop\M.ScThesis\Code\Grasp\train_network.py:316} INFO - Beginning Epoch 00
+[16:45:22] {c:\Users\Yohannes\Desktop\M.ScThesis\Code\Grasp\train_network.py:175} INFO - Epoch: 0, Batch: 100, Loss: inf
+[16:46:11] {c:\Users\Yohannes\Desktop\M.ScThesis\Code\Grasp\train_network.py:175} INFO - Epoch: 0, Batch: 200, Loss: inf
+[16:46:59] {c:\Users\Yohannes\Desktop\M.ScThesis\Code\Grasp\train_network.py:175} INFO - Epoch: 0, Batch: 300, Loss: inf
+[16:47:49] {c:\Users\Yohannes\Desktop\M.ScThesis\Code\Grasp\train_network.py:175} INFO - Epoch: 0, Batch: 400, Loss: inf
+[16:48:39] {c:\Users\Yohannes\Desktop\M.ScThesis\Code\Grasp\train_network.py:175} INFO - Epoch: 0, Batch: 500, Loss: inf
+[16:49:27] {c:\Users\Yohannes\Desktop\M.ScThesis\Code\Grasp\train_network.py:175} INFO - Epoch: 0, Batch: 600, Loss: inf
+[16:50:16] {c:\Users\Yohannes\Desktop\M.ScThesis\Code\Grasp\train_network.py:175} INFO - Epoch: 0, Batch: 700, Loss: inf
+[16:51:03] {c:\Users\Yohannes\Desktop\M.ScThesis\Code\Grasp\train_network.py:175} INFO - Epoch: 0, Batch: 800, Loss: inf
+[16:51:52] {c:\Users\Yohannes\Desktop\M.ScThesis\Code\Grasp\train_network.py:175} INFO - Epoch: 0, Batch: 900, Loss: inf
+[16:53:03] {C:\Users\Yohannes\anaconda3\envs\torch\lib\site-packages\tensorboardX\x2num.py:14} WARNING - NaN or Inf found in input tensor.
+[16:53:03] {C:\Users\Yohannes\anaconda3\envs\torch\lib\site-packages\tensorboardX\x2num.py:14} WARNING - NaN or Inf found in input tensor.
+[16:53:03] {C:\Users\Yohannes\anaconda3\envs\torch\lib\site-packages\tensorboardX\x2num.py:14} WARNING - NaN or Inf found in input tensor.
+[16:53:03] {C:\Users\Yohannes\anaconda3\envs\torch\lib\site-packages\tensorboardX\x2num.py:14} WARNING - NaN or Inf found in input tensor.
+[16:53:03] {C:\Users\Yohannes\anaconda3\envs\torch\lib\site-packages\tensorboardX\x2num.py:14} WARNING - NaN or Inf found in input tensor.
+[16:53:03] {c:\Users\Yohannes\Desktop\M.ScThesis\Code\Grasp\train_network.py:325} INFO - Validating...
+[16:53:26] {c:\Users\Yohannes\Desktop\M.ScThesis\Code\Grasp\train_network.py:327} INFO - 0/89 = 0.000000
+[16:53:26] {C:\Users\Yohannes\anaconda3\envs\torch\lib\site-packages\tensorboardX\x2num.py:14} WARNING - NaN or Inf found in input tensor.
+[16:53:26] {C:\Users\Yohannes\anaconda3\envs\torch\lib\site-packages\tensorboardX\x2num.py:14} WARNING - NaN or Inf found in input tensor.
+[16:53:26] {C:\Users\Yohannes\anaconda3\envs\torch\lib\site-packages\tensorboardX\x2num.py:14} WARNING - NaN or Inf found in input tensor.
+[16:53:26] {C:\Users\Yohannes\anaconda3\envs\torch\lib\site-packages\tensorboardX\x2num.py:14} WARNING - NaN or Inf found in input tensor.
+[16:53:26] {C:\Users\Yohannes\anaconda3\envs\torch\lib\site-packages\tensorboardX\x2num.py:14} WARNING - NaN or Inf found in input tensor.
+[16:53:26] {c:\Users\Yohannes\Desktop\M.ScThesis\Code\Grasp\train_network.py:316} INFO - Beginning Epoch 01
+[16:54:13] {c:\Users\Yohannes\Desktop\M.ScThesis\Code\Grasp\train_network.py:175} INFO - Epoch: 1, Batch: 100, Loss: inf

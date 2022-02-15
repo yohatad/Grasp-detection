@@ -1,0 +1,608 @@
+[00:39:49] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\hardware\device.py:10} INFO - With GPU acceleration (CUDA found).
+[00:39:49] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:246} INFO - Loading Cornell Dataset...
+[00:39:49] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:255} INFO - Dataset size is 885
+[00:39:49] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:264} INFO - Training size: 796
+[00:39:49] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:265} INFO - Validation size: 89
+[00:39:49] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:283} INFO - Done
+[00:39:49] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:286} INFO - Loading Network...
+[00:39:49] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:297} INFO - Done
+[00:39:53] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:316} INFO - Beginning Epoch 00
+[00:40:42] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 0, Batch: 100, Loss: 0.1241
+[00:41:30] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 0, Batch: 200, Loss: 0.0926
+[00:42:18] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 0, Batch: 300, Loss: 0.1996
+[00:43:20] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 0, Batch: 400, Loss: 0.0334
+[00:44:09] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 0, Batch: 500, Loss: 0.0502
+[00:44:57] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 0, Batch: 600, Loss: 0.1039
+[00:45:44] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 0, Batch: 700, Loss: 0.0478
+[00:46:31] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 0, Batch: 800, Loss: 0.1272
+[00:47:18] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 0, Batch: 900, Loss: 0.1297
+[00:48:27] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:325} INFO - Validating...
+[00:48:50] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:327} INFO - 40/89 = 0.449438
+[00:48:50] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:316} INFO - Beginning Epoch 01
+[00:49:37] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 1, Batch: 100, Loss: 0.1095
+[00:50:24] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 1, Batch: 200, Loss: 0.0475
+[00:51:11] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 1, Batch: 300, Loss: 0.1295
+[00:51:58] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 1, Batch: 400, Loss: 0.0956
+[00:52:45] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 1, Batch: 500, Loss: 0.1018
+[00:53:32] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 1, Batch: 600, Loss: 0.1342
+[00:54:19] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 1, Batch: 700, Loss: 0.0473
+[00:55:06] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 1, Batch: 800, Loss: 0.0426
+[00:55:53] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 1, Batch: 900, Loss: 0.0584
+[00:57:03] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:325} INFO - Validating...
+[00:57:25] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:327} INFO - 56/89 = 0.629213
+[00:57:25] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:316} INFO - Beginning Epoch 02
+[00:58:12] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 2, Batch: 100, Loss: 0.0719
+[00:58:59] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 2, Batch: 200, Loss: 0.1274
+[00:59:46] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 2, Batch: 300, Loss: 0.0688
+[01:00:33] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 2, Batch: 400, Loss: 0.0566
+[01:01:20] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 2, Batch: 500, Loss: 0.0489
+[01:02:07] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 2, Batch: 600, Loss: 0.0405
+[01:02:54] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 2, Batch: 700, Loss: 0.0575
+[01:03:41] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 2, Batch: 800, Loss: 0.0797
+[01:04:29] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 2, Batch: 900, Loss: 0.0998
+[01:05:37] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:325} INFO - Validating...
+[01:05:59] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:327} INFO - 45/89 = 0.505618
+[01:05:59] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:316} INFO - Beginning Epoch 03
+[01:06:46] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 3, Batch: 100, Loss: 0.0559
+[01:07:33] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 3, Batch: 200, Loss: 0.1377
+[01:08:20] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 3, Batch: 300, Loss: 0.0358
+[01:09:07] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 3, Batch: 400, Loss: 0.0356
+[01:09:54] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 3, Batch: 500, Loss: 0.0858
+[01:10:41] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 3, Batch: 600, Loss: 0.1930
+[01:11:28] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 3, Batch: 700, Loss: 0.1691
+[01:12:16] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 3, Batch: 800, Loss: 0.0535
+[01:13:02] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 3, Batch: 900, Loss: 0.0570
+[01:14:12] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:325} INFO - Validating...
+[01:14:34] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:327} INFO - 75/89 = 0.842697
+[01:14:34] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:316} INFO - Beginning Epoch 04
+[01:15:21] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 4, Batch: 100, Loss: 0.0617
+[01:16:08] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 4, Batch: 200, Loss: 0.0430
+[01:16:55] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 4, Batch: 300, Loss: 0.0662
+[01:17:42] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 4, Batch: 400, Loss: 0.0528
+[01:18:29] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 4, Batch: 500, Loss: 0.1519
+[01:19:16] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 4, Batch: 600, Loss: 0.1449
+[01:20:03] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 4, Batch: 700, Loss: 0.0719
+[01:20:50] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 4, Batch: 800, Loss: 0.0691
+[01:21:37] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 4, Batch: 900, Loss: 0.1403
+[01:22:47] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:325} INFO - Validating...
+[01:23:09] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:327} INFO - 75/89 = 0.842697
+[01:23:09] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:316} INFO - Beginning Epoch 05
+[01:23:57] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 5, Batch: 100, Loss: 0.0764
+[01:24:44] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 5, Batch: 200, Loss: 0.0788
+[01:25:31] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 5, Batch: 300, Loss: 0.0542
+[01:26:18] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 5, Batch: 400, Loss: 0.0596
+[01:27:05] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 5, Batch: 500, Loss: 0.0450
+[01:27:52] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 5, Batch: 600, Loss: 0.0378
+[01:28:39] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 5, Batch: 700, Loss: 0.0334
+[01:29:26] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 5, Batch: 800, Loss: 0.0584
+[01:30:13] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 5, Batch: 900, Loss: 0.1282
+[01:31:22] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:325} INFO - Validating...
+[01:31:44] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:327} INFO - 76/89 = 0.853933
+[01:31:44] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:316} INFO - Beginning Epoch 06
+[01:32:31] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 6, Batch: 100, Loss: 0.0413
+[01:33:17] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 6, Batch: 200, Loss: 0.0541
+[01:34:04] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 6, Batch: 300, Loss: 0.0938
+[01:34:51] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 6, Batch: 400, Loss: 0.0435
+[01:35:38] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 6, Batch: 500, Loss: 0.0909
+[01:36:25] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 6, Batch: 600, Loss: 0.0659
+[01:37:12] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 6, Batch: 700, Loss: 0.0411
+[01:37:59] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 6, Batch: 800, Loss: 0.0411
+[01:38:47] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 6, Batch: 900, Loss: 0.0595
+[01:39:56] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:325} INFO - Validating...
+[01:40:18] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:327} INFO - 84/89 = 0.943820
+[01:40:18] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:316} INFO - Beginning Epoch 07
+[01:41:05] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 7, Batch: 100, Loss: 0.0405
+[01:41:53] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 7, Batch: 200, Loss: 0.0440
+[01:42:40] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 7, Batch: 300, Loss: 0.0761
+[01:43:27] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 7, Batch: 400, Loss: 0.1389
+[01:44:14] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 7, Batch: 500, Loss: 0.0340
+[01:45:01] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 7, Batch: 600, Loss: 0.0572
+[01:45:48] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 7, Batch: 700, Loss: 0.0571
+[01:46:35] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 7, Batch: 800, Loss: 0.0621
+[01:47:22] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 7, Batch: 900, Loss: 0.0301
+[01:48:31] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:325} INFO - Validating...
+[01:48:53] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:327} INFO - 76/89 = 0.853933
+[01:48:53] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:316} INFO - Beginning Epoch 08
+[01:49:40] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 8, Batch: 100, Loss: 0.0276
+[01:50:27] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 8, Batch: 200, Loss: 0.0554
+[01:51:14] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 8, Batch: 300, Loss: 0.0302
+[01:52:01] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 8, Batch: 400, Loss: 0.0328
+[01:52:48] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 8, Batch: 500, Loss: 0.0514
+[01:53:35] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 8, Batch: 600, Loss: 0.0376
+[01:54:22] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 8, Batch: 700, Loss: 0.1708
+[01:55:09] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 8, Batch: 800, Loss: 0.1033
+[01:55:56] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 8, Batch: 900, Loss: 0.0821
+[01:57:06] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:325} INFO - Validating...
+[01:57:28] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:327} INFO - 83/89 = 0.932584
+[01:57:28] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:316} INFO - Beginning Epoch 09
+[01:58:15] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 9, Batch: 100, Loss: 0.0295
+[01:59:02] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 9, Batch: 200, Loss: 0.0307
+[01:59:49] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 9, Batch: 300, Loss: 0.0414
+[02:00:36] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 9, Batch: 400, Loss: 0.0801
+[02:01:23] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 9, Batch: 500, Loss: 0.0537
+[02:02:10] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 9, Batch: 600, Loss: 0.0528
+[02:02:57] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 9, Batch: 700, Loss: 0.0652
+[02:03:44] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 9, Batch: 800, Loss: 0.0727
+[02:04:31] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 9, Batch: 900, Loss: 0.0415
+[02:05:40] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:325} INFO - Validating...
+[02:06:02] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:327} INFO - 77/89 = 0.865169
+[02:06:02] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:316} INFO - Beginning Epoch 10
+[02:06:49] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 10, Batch: 100, Loss: 0.0987
+[02:07:36] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 10, Batch: 200, Loss: 0.0974
+[02:08:23] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 10, Batch: 300, Loss: 0.0750
+[02:09:10] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 10, Batch: 400, Loss: 0.0403
+[02:09:57] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 10, Batch: 500, Loss: 0.0421
+[02:10:44] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 10, Batch: 600, Loss: 0.0723
+[02:11:31] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 10, Batch: 700, Loss: 0.0564
+[02:12:18] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 10, Batch: 800, Loss: 0.1979
+[02:13:05] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 10, Batch: 900, Loss: 0.0223
+[02:14:15] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:325} INFO - Validating...
+[02:14:37] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:327} INFO - 74/89 = 0.831461
+[02:14:37] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:316} INFO - Beginning Epoch 11
+[02:15:24] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 11, Batch: 100, Loss: 0.0280
+[02:16:11] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 11, Batch: 200, Loss: 0.1026
+[02:16:58] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 11, Batch: 300, Loss: 0.0285
+[02:17:45] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 11, Batch: 400, Loss: 0.0334
+[02:18:32] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 11, Batch: 500, Loss: 0.1018
+[02:19:19] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 11, Batch: 600, Loss: 0.0741
+[02:20:05] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 11, Batch: 700, Loss: 0.0773
+[02:20:52] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 11, Batch: 800, Loss: 0.0753
+[02:21:39] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 11, Batch: 900, Loss: 0.0605
+[02:22:49] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:325} INFO - Validating...
+[02:23:11] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:327} INFO - 85/89 = 0.955056
+[02:23:11] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:316} INFO - Beginning Epoch 12
+[02:23:58] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 12, Batch: 100, Loss: 0.1405
+[02:24:45] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 12, Batch: 200, Loss: 0.0829
+[02:25:32] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 12, Batch: 300, Loss: 0.1743
+[02:26:19] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 12, Batch: 400, Loss: 0.0519
+[02:27:06] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 12, Batch: 500, Loss: 0.1126
+[02:27:53] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 12, Batch: 600, Loss: 0.0877
+[02:28:40] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 12, Batch: 700, Loss: 0.0485
+[02:29:27] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 12, Batch: 800, Loss: 0.0505
+[02:30:14] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 12, Batch: 900, Loss: 0.0468
+[02:31:23] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:325} INFO - Validating...
+[02:31:45] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:327} INFO - 78/89 = 0.876404
+[02:31:45] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:316} INFO - Beginning Epoch 13
+[02:32:33] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 13, Batch: 100, Loss: 0.0627
+[02:33:19] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 13, Batch: 200, Loss: 0.1301
+[02:34:07] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 13, Batch: 300, Loss: 0.0686
+[02:34:53] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 13, Batch: 400, Loss: 0.0883
+[02:35:40] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 13, Batch: 500, Loss: 0.0528
+[02:36:27] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 13, Batch: 600, Loss: 0.0673
+[02:37:14] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 13, Batch: 700, Loss: 0.0645
+[02:38:01] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 13, Batch: 800, Loss: 0.0858
+[02:38:48] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 13, Batch: 900, Loss: 0.0706
+[02:39:58] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:325} INFO - Validating...
+[02:40:20] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:327} INFO - 78/89 = 0.876404
+[02:40:20] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:316} INFO - Beginning Epoch 14
+[02:41:07] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 14, Batch: 100, Loss: 0.0225
+[02:41:54] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 14, Batch: 200, Loss: 0.0711
+[02:42:41] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 14, Batch: 300, Loss: 0.0392
+[02:43:28] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 14, Batch: 400, Loss: 0.0547
+[02:44:15] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 14, Batch: 500, Loss: 0.1108
+[02:45:02] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 14, Batch: 600, Loss: 0.1353
+[02:45:49] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 14, Batch: 700, Loss: 0.0290
+[02:46:35] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 14, Batch: 800, Loss: 0.0647
+[02:47:22] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 14, Batch: 900, Loss: 0.0216
+[02:48:31] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:325} INFO - Validating...
+[02:48:53] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:327} INFO - 78/89 = 0.876404
+[02:48:53] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:316} INFO - Beginning Epoch 15
+[02:49:41] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 15, Batch: 100, Loss: 0.0560
+[02:50:28] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 15, Batch: 200, Loss: 0.0628
+[02:51:15] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 15, Batch: 300, Loss: 0.0686
+[02:52:02] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 15, Batch: 400, Loss: 0.0686
+[02:52:49] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 15, Batch: 500, Loss: 0.0615
+[02:53:36] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 15, Batch: 600, Loss: 0.0288
+[02:54:23] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 15, Batch: 700, Loss: 0.0630
+[02:55:10] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 15, Batch: 800, Loss: 0.2493
+[02:55:57] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 15, Batch: 900, Loss: 0.0368
+[02:57:06] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:325} INFO - Validating...
+[02:57:28] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:327} INFO - 82/89 = 0.921348
+[02:57:28] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:316} INFO - Beginning Epoch 16
+[02:58:15] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 16, Batch: 100, Loss: 0.0861
+[02:59:02] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 16, Batch: 200, Loss: 0.0556
+[02:59:49] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 16, Batch: 300, Loss: 0.0299
+[03:00:36] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 16, Batch: 400, Loss: 0.1284
+[03:01:23] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 16, Batch: 500, Loss: 0.0918
+[03:02:10] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 16, Batch: 600, Loss: 0.0492
+[03:02:57] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 16, Batch: 700, Loss: 0.0365
+[03:03:44] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 16, Batch: 800, Loss: 0.0439
+[03:04:31] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 16, Batch: 900, Loss: 0.0940
+[03:05:40] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:325} INFO - Validating...
+[03:06:02] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:327} INFO - 81/89 = 0.910112
+[03:06:02] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:316} INFO - Beginning Epoch 17
+[03:06:49] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 17, Batch: 100, Loss: 0.0331
+[03:07:36] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 17, Batch: 200, Loss: 0.0401
+[03:08:23] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 17, Batch: 300, Loss: 0.1005
+[03:09:10] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 17, Batch: 400, Loss: 0.0446
+[03:09:57] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 17, Batch: 500, Loss: 0.0368
+[03:10:44] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 17, Batch: 600, Loss: 0.1374
+[03:11:31] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 17, Batch: 700, Loss: 0.0688
+[03:12:18] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 17, Batch: 800, Loss: 0.0765
+[03:13:05] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 17, Batch: 900, Loss: 0.0330
+[03:14:14] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:325} INFO - Validating...
+[03:14:36] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:327} INFO - 79/89 = 0.887640
+[03:14:36] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:316} INFO - Beginning Epoch 18
+[03:15:23] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 18, Batch: 100, Loss: 0.0713
+[03:16:10] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 18, Batch: 200, Loss: 0.0746
+[03:16:57] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 18, Batch: 300, Loss: 0.0574
+[03:17:43] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 18, Batch: 400, Loss: 0.1226
+[03:18:30] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 18, Batch: 500, Loss: 0.0482
+[03:19:17] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 18, Batch: 600, Loss: 0.0329
+[03:20:04] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 18, Batch: 700, Loss: 0.0383
+[03:20:51] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 18, Batch: 800, Loss: 0.0697
+[03:21:38] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 18, Batch: 900, Loss: 0.0218
+[03:22:47] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:325} INFO - Validating...
+[03:23:09] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:327} INFO - 83/89 = 0.932584
+[03:23:09] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:316} INFO - Beginning Epoch 19
+[03:23:57] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 19, Batch: 100, Loss: 0.0993
+[03:24:44] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 19, Batch: 200, Loss: 0.0747
+[03:25:31] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 19, Batch: 300, Loss: 0.0804
+[03:26:17] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 19, Batch: 400, Loss: 0.0938
+[03:27:04] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 19, Batch: 500, Loss: 0.0995
+[03:27:51] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 19, Batch: 600, Loss: 0.0203
+[03:28:38] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 19, Batch: 700, Loss: 0.0480
+[03:29:25] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 19, Batch: 800, Loss: 0.1241
+[03:30:12] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 19, Batch: 900, Loss: 0.0387
+[03:31:21] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:325} INFO - Validating...
+[03:31:43] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:327} INFO - 79/89 = 0.887640
+[03:31:43] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:316} INFO - Beginning Epoch 20
+[03:32:30] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 20, Batch: 100, Loss: 0.0300
+[03:33:17] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 20, Batch: 200, Loss: 0.0855
+[03:34:04] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 20, Batch: 300, Loss: 0.0852
+[03:34:51] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 20, Batch: 400, Loss: 0.0216
+[03:35:37] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 20, Batch: 500, Loss: 0.1343
+[03:36:24] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 20, Batch: 600, Loss: 0.0256
+[03:37:12] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 20, Batch: 700, Loss: 0.1390
+[03:37:59] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 20, Batch: 800, Loss: 0.0384
+[03:38:46] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 20, Batch: 900, Loss: 0.0601
+[03:39:56] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:325} INFO - Validating...
+[03:40:18] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:327} INFO - 83/89 = 0.932584
+[03:40:18] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:316} INFO - Beginning Epoch 21
+[03:41:05] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 21, Batch: 100, Loss: 0.0658
+[03:41:52] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 21, Batch: 200, Loss: 0.0891
+[03:42:40] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 21, Batch: 300, Loss: 0.0427
+[03:43:27] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 21, Batch: 400, Loss: 0.1786
+[03:44:13] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 21, Batch: 500, Loss: 0.0625
+[03:45:00] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 21, Batch: 600, Loss: 0.0493
+[03:45:47] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 21, Batch: 700, Loss: 0.0454
+[03:46:34] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 21, Batch: 800, Loss: 0.0672
+[03:47:21] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 21, Batch: 900, Loss: 0.0200
+[03:48:30] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:325} INFO - Validating...
+[03:48:53] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:327} INFO - 84/89 = 0.943820
+[03:48:53] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:316} INFO - Beginning Epoch 22
+[03:49:40] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 22, Batch: 100, Loss: 0.0216
+[03:50:27] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 22, Batch: 200, Loss: 0.1637
+[03:51:14] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 22, Batch: 300, Loss: 0.0925
+[03:52:01] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 22, Batch: 400, Loss: 0.1114
+[03:52:48] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 22, Batch: 500, Loss: 0.0412
+[03:53:34] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 22, Batch: 600, Loss: 0.0726
+[03:54:21] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 22, Batch: 700, Loss: 0.0394
+[03:55:08] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 22, Batch: 800, Loss: 0.0930
+[03:55:55] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 22, Batch: 900, Loss: 0.0496
+[03:57:04] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:325} INFO - Validating...
+[03:57:26] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:327} INFO - 81/89 = 0.910112
+[03:57:26] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:316} INFO - Beginning Epoch 23
+[03:58:13] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 23, Batch: 100, Loss: 0.1012
+[03:59:00] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 23, Batch: 200, Loss: 0.0299
+[03:59:47] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 23, Batch: 300, Loss: 0.0513
+[04:00:34] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 23, Batch: 400, Loss: 0.0482
+[04:01:21] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 23, Batch: 500, Loss: 0.0792
+[04:02:08] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 23, Batch: 600, Loss: 0.0694
+[04:02:55] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 23, Batch: 700, Loss: 0.0822
+[04:03:42] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 23, Batch: 800, Loss: 0.0784
+[04:04:29] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 23, Batch: 900, Loss: 0.0816
+[04:05:39] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:325} INFO - Validating...
+[04:06:01] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:327} INFO - 81/89 = 0.910112
+[04:06:01] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:316} INFO - Beginning Epoch 24
+[04:06:48] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 24, Batch: 100, Loss: 0.0918
+[04:07:35] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 24, Batch: 200, Loss: 0.0772
+[04:08:21] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 24, Batch: 300, Loss: 0.0757
+[04:09:09] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 24, Batch: 400, Loss: 0.0935
+[04:09:56] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 24, Batch: 500, Loss: 0.0900
+[04:10:43] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 24, Batch: 600, Loss: 0.0297
+[04:11:29] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 24, Batch: 700, Loss: 0.0422
+[04:12:16] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 24, Batch: 800, Loss: 0.1198
+[04:13:03] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 24, Batch: 900, Loss: 0.0490
+[04:14:12] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:325} INFO - Validating...
+[04:14:34] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:327} INFO - 84/89 = 0.943820
+[04:14:34] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:316} INFO - Beginning Epoch 25
+[04:15:21] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 25, Batch: 100, Loss: 0.0373
+[04:16:08] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 25, Batch: 200, Loss: 0.0476
+[04:16:55] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 25, Batch: 300, Loss: 0.0527
+[04:17:42] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 25, Batch: 400, Loss: 0.1044
+[04:18:29] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 25, Batch: 500, Loss: 0.0593
+[04:19:16] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 25, Batch: 600, Loss: 0.0264
+[04:20:02] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 25, Batch: 700, Loss: 0.0811
+[04:20:49] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 25, Batch: 800, Loss: 0.0494
+[04:21:36] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 25, Batch: 900, Loss: 0.0319
+[04:22:46] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:325} INFO - Validating...
+[04:23:08] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:327} INFO - 80/89 = 0.898876
+[04:23:08] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:316} INFO - Beginning Epoch 26
+[04:23:56] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 26, Batch: 100, Loss: 0.0805
+[04:24:42] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 26, Batch: 200, Loss: 0.0360
+[04:25:29] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 26, Batch: 300, Loss: 0.0447
+[04:26:16] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 26, Batch: 400, Loss: 0.0212
+[04:27:03] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 26, Batch: 500, Loss: 0.0192
+[04:27:50] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 26, Batch: 600, Loss: 0.0534
+[04:28:37] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 26, Batch: 700, Loss: 0.0351
+[04:29:24] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 26, Batch: 800, Loss: 0.0537
+[04:30:10] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 26, Batch: 900, Loss: 0.0236
+[04:31:19] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:325} INFO - Validating...
+[04:31:41] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:327} INFO - 83/89 = 0.932584
+[04:31:41] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:316} INFO - Beginning Epoch 27
+[04:32:28] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 27, Batch: 100, Loss: 0.0700
+[04:33:15] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 27, Batch: 200, Loss: 0.0516
+[04:34:01] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 27, Batch: 300, Loss: 0.0763
+[04:34:48] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 27, Batch: 400, Loss: 0.1216
+[04:35:35] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 27, Batch: 500, Loss: 0.0626
+[04:36:22] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 27, Batch: 600, Loss: 0.0397
+[04:37:09] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 27, Batch: 700, Loss: 0.0521
+[04:37:56] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 27, Batch: 800, Loss: 0.0296
+[04:38:43] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 27, Batch: 900, Loss: 0.0738
+[04:39:52] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:325} INFO - Validating...
+[04:40:14] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:327} INFO - 82/89 = 0.921348
+[04:40:14] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:316} INFO - Beginning Epoch 28
+[04:41:01] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 28, Batch: 100, Loss: 0.0555
+[04:41:48] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 28, Batch: 200, Loss: 0.0159
+[04:42:35] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 28, Batch: 300, Loss: 0.0994
+[04:43:22] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 28, Batch: 400, Loss: 0.0647
+[04:44:08] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 28, Batch: 500, Loss: 0.0804
+[04:44:56] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 28, Batch: 600, Loss: 0.1417
+[04:45:43] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 28, Batch: 700, Loss: 0.0519
+[04:46:29] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 28, Batch: 800, Loss: 0.0336
+[04:47:16] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 28, Batch: 900, Loss: 0.0572
+[04:48:25] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:325} INFO - Validating...
+[04:48:48] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:327} INFO - 84/89 = 0.943820
+[04:48:48] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:316} INFO - Beginning Epoch 29
+[04:49:35] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 29, Batch: 100, Loss: 0.0481
+[04:50:22] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 29, Batch: 200, Loss: 0.0515
+[04:51:09] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 29, Batch: 300, Loss: 0.0532
+[04:51:55] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 29, Batch: 400, Loss: 0.0645
+[04:52:42] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 29, Batch: 500, Loss: 0.0821
+[04:53:29] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 29, Batch: 600, Loss: 0.0279
+[04:54:16] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 29, Batch: 700, Loss: 0.0711
+[04:55:03] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 29, Batch: 800, Loss: 0.0313
+[04:55:50] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 29, Batch: 900, Loss: 0.0438
+[04:56:59] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:325} INFO - Validating...
+[04:57:21] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:327} INFO - 86/89 = 0.966292
+[04:57:21] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:316} INFO - Beginning Epoch 30
+[04:58:09] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 30, Batch: 100, Loss: 0.0503
+[04:58:56] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 30, Batch: 200, Loss: 0.0512
+[04:59:43] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 30, Batch: 300, Loss: 0.0480
+[05:00:30] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 30, Batch: 400, Loss: 0.1217
+[05:01:18] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 30, Batch: 500, Loss: 0.0675
+[05:02:07] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 30, Batch: 600, Loss: 0.0511
+[05:02:56] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 30, Batch: 700, Loss: 0.0296
+[05:03:46] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 30, Batch: 800, Loss: 0.1115
+[05:04:35] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 30, Batch: 900, Loss: 0.0409
+[05:05:47] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:325} INFO - Validating...
+[05:06:10] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:327} INFO - 84/89 = 0.943820
+[05:06:10] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:316} INFO - Beginning Epoch 31
+[05:06:58] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 31, Batch: 100, Loss: 0.0906
+[05:07:45] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 31, Batch: 200, Loss: 0.0910
+[05:08:33] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 31, Batch: 300, Loss: 0.0576
+[05:09:20] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 31, Batch: 400, Loss: 0.0404
+[05:10:07] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 31, Batch: 500, Loss: 0.0772
+[05:10:54] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 31, Batch: 600, Loss: 0.1268
+[05:11:41] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 31, Batch: 700, Loss: 0.0819
+[05:12:28] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 31, Batch: 800, Loss: 0.0382
+[05:13:15] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 31, Batch: 900, Loss: 0.0397
+[05:14:24] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:325} INFO - Validating...
+[05:14:47] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:327} INFO - 76/89 = 0.853933
+[05:14:47] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:316} INFO - Beginning Epoch 32
+[05:15:34] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 32, Batch: 100, Loss: 0.0408
+[05:16:21] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 32, Batch: 200, Loss: 0.0945
+[05:17:08] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 32, Batch: 300, Loss: 0.0577
+[05:17:55] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 32, Batch: 400, Loss: 0.0528
+[05:18:42] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 32, Batch: 500, Loss: 0.1217
+[05:19:29] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 32, Batch: 600, Loss: 0.1118
+[05:20:16] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 32, Batch: 700, Loss: 0.0373
+[05:21:03] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 32, Batch: 800, Loss: 0.0494
+[05:21:50] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 32, Batch: 900, Loss: 0.0790
+[05:22:59] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:325} INFO - Validating...
+[05:23:21] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:327} INFO - 85/89 = 0.955056
+[05:23:21] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:316} INFO - Beginning Epoch 33
+[05:24:08] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 33, Batch: 100, Loss: 0.0562
+[05:24:56] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 33, Batch: 200, Loss: 0.0236
+[05:25:42] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 33, Batch: 300, Loss: 0.0640
+[05:26:29] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 33, Batch: 400, Loss: 0.0835
+[05:27:16] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 33, Batch: 500, Loss: 0.0771
+[05:28:03] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 33, Batch: 600, Loss: 0.0353
+[05:28:50] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 33, Batch: 700, Loss: 0.0535
+[05:29:37] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 33, Batch: 800, Loss: 0.0478
+[05:30:24] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 33, Batch: 900, Loss: 0.0249
+[05:31:33] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:325} INFO - Validating...
+[05:31:55] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:327} INFO - 80/89 = 0.898876
+[05:31:55] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:316} INFO - Beginning Epoch 34
+[05:32:41] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 34, Batch: 100, Loss: 0.0696
+[05:33:28] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 34, Batch: 200, Loss: 0.1110
+[05:34:15] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 34, Batch: 300, Loss: 0.0773
+[05:35:02] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 34, Batch: 400, Loss: 0.0758
+[05:35:49] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 34, Batch: 500, Loss: 0.0203
+[05:36:36] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 34, Batch: 600, Loss: 0.0271
+[05:37:23] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 34, Batch: 700, Loss: 0.1593
+[05:38:10] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 34, Batch: 800, Loss: 0.0544
+[05:38:57] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 34, Batch: 900, Loss: 0.0489
+[05:40:06] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:325} INFO - Validating...
+[05:40:28] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:327} INFO - 81/89 = 0.910112
+[05:40:28] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:316} INFO - Beginning Epoch 35
+[05:41:15] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 35, Batch: 100, Loss: 0.0532
+[05:42:02] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 35, Batch: 200, Loss: 0.0330
+[05:42:49] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 35, Batch: 300, Loss: 0.0542
+[05:43:36] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 35, Batch: 400, Loss: 0.0250
+[05:44:23] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 35, Batch: 500, Loss: 0.0368
+[05:45:10] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 35, Batch: 600, Loss: 0.0927
+[05:45:57] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 35, Batch: 700, Loss: 0.0335
+[05:46:44] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 35, Batch: 800, Loss: 0.0448
+[05:47:31] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 35, Batch: 900, Loss: 0.0751
+[05:48:40] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:325} INFO - Validating...
+[05:49:02] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:327} INFO - 80/89 = 0.898876
+[05:49:02] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:316} INFO - Beginning Epoch 36
+[05:49:49] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 36, Batch: 100, Loss: 0.0751
+[05:50:36] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 36, Batch: 200, Loss: 0.0850
+[05:51:23] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 36, Batch: 300, Loss: 0.0342
+[05:52:10] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 36, Batch: 400, Loss: 0.0570
+[05:52:57] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 36, Batch: 500, Loss: 0.0280
+[05:53:45] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 36, Batch: 600, Loss: 0.0407
+[05:54:32] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 36, Batch: 700, Loss: 0.0430
+[05:55:19] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 36, Batch: 800, Loss: 0.0536
+[05:56:06] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 36, Batch: 900, Loss: 0.0298
+[05:57:15] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:325} INFO - Validating...
+[05:57:37] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:327} INFO - 81/89 = 0.910112
+[05:57:37] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:316} INFO - Beginning Epoch 37
+[05:58:24] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 37, Batch: 100, Loss: 0.0561
+[05:59:11] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 37, Batch: 200, Loss: 0.0236
+[05:59:58] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 37, Batch: 300, Loss: 0.0676
+[06:00:45] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 37, Batch: 400, Loss: 0.0314
+[06:01:32] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 37, Batch: 500, Loss: 0.0181
+[06:02:19] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 37, Batch: 600, Loss: 0.0450
+[06:03:06] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 37, Batch: 700, Loss: 0.0327
+[06:03:53] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 37, Batch: 800, Loss: 0.0344
+[06:04:40] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 37, Batch: 900, Loss: 0.0543
+[06:05:49] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:325} INFO - Validating...
+[06:06:12] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:327} INFO - 81/89 = 0.910112
+[06:06:12] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:316} INFO - Beginning Epoch 38
+[06:06:59] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 38, Batch: 100, Loss: 0.0399
+[06:07:46] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 38, Batch: 200, Loss: 0.0555
+[06:08:32] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 38, Batch: 300, Loss: 0.0672
+[06:09:20] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 38, Batch: 400, Loss: 0.0803
+[06:10:07] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 38, Batch: 500, Loss: 0.0638
+[06:10:54] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 38, Batch: 600, Loss: 0.0225
+[06:11:41] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 38, Batch: 700, Loss: 0.0510
+[06:12:28] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 38, Batch: 800, Loss: 0.0498
+[06:13:14] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 38, Batch: 900, Loss: 0.0681
+[06:14:24] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:325} INFO - Validating...
+[06:14:46] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:327} INFO - 83/89 = 0.932584
+[06:14:46] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:316} INFO - Beginning Epoch 39
+[06:15:33] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 39, Batch: 100, Loss: 0.0544
+[06:16:20] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 39, Batch: 200, Loss: 0.0647
+[06:17:07] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 39, Batch: 300, Loss: 0.0372
+[06:17:53] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 39, Batch: 400, Loss: 0.0731
+[06:18:40] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 39, Batch: 500, Loss: 0.0400
+[06:19:27] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 39, Batch: 600, Loss: 0.0519
+[06:20:14] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 39, Batch: 700, Loss: 0.0317
+[06:21:01] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 39, Batch: 800, Loss: 0.0375
+[06:21:48] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 39, Batch: 900, Loss: 0.0664
+[06:22:57] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:325} INFO - Validating...
+[06:23:20] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:327} INFO - 81/89 = 0.910112
+[06:23:20] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:316} INFO - Beginning Epoch 40
+[06:24:07] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 40, Batch: 100, Loss: 0.0254
+[06:24:54] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 40, Batch: 200, Loss: 0.0370
+[06:25:41] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 40, Batch: 300, Loss: 0.0813
+[06:26:30] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 40, Batch: 400, Loss: 0.1484
+[06:27:18] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 40, Batch: 500, Loss: 0.0363
+[06:28:08] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 40, Batch: 600, Loss: 0.0902
+[06:28:56] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 40, Batch: 700, Loss: 0.0618
+[06:29:43] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 40, Batch: 800, Loss: 0.0583
+[06:30:30] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 40, Batch: 900, Loss: 0.0371
+[06:31:39] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:325} INFO - Validating...
+[06:32:01] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:327} INFO - 81/89 = 0.910112
+[06:32:01] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:316} INFO - Beginning Epoch 41
+[06:32:49] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 41, Batch: 100, Loss: 0.0655
+[06:33:36] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 41, Batch: 200, Loss: 0.0515
+[06:34:23] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 41, Batch: 300, Loss: 0.0453
+[06:35:10] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 41, Batch: 400, Loss: 0.0402
+[06:35:57] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 41, Batch: 500, Loss: 0.0345
+[06:36:44] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 41, Batch: 600, Loss: 0.0368
+[06:37:32] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 41, Batch: 700, Loss: 0.0844
+[06:38:21] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 41, Batch: 800, Loss: 0.0380
+[06:39:08] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 41, Batch: 900, Loss: 0.0739
+[06:40:18] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:325} INFO - Validating...
+[06:40:40] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:327} INFO - 86/89 = 0.966292
+[06:40:40] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:316} INFO - Beginning Epoch 42
+[06:41:27] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 42, Batch: 100, Loss: 0.0430
+[06:42:14] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 42, Batch: 200, Loss: 0.0686
+[06:43:01] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 42, Batch: 300, Loss: 0.0669
+[06:43:48] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 42, Batch: 400, Loss: 0.0347
+[06:44:35] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 42, Batch: 500, Loss: 0.0435
+[06:45:22] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 42, Batch: 600, Loss: 0.0376
+[06:46:09] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 42, Batch: 700, Loss: 0.0369
+[06:46:57] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 42, Batch: 800, Loss: 0.1159
+[06:47:44] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 42, Batch: 900, Loss: 0.0700
+[06:48:53] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:325} INFO - Validating...
+[06:49:16] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:327} INFO - 83/89 = 0.932584
+[06:49:16] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:316} INFO - Beginning Epoch 43
+[06:50:02] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 43, Batch: 100, Loss: 0.0279
+[06:50:49] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 43, Batch: 200, Loss: 0.0697
+[06:51:35] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 43, Batch: 300, Loss: 0.0179
+[06:52:22] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 43, Batch: 400, Loss: 0.0435
+[06:53:09] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 43, Batch: 500, Loss: 0.0568
+[06:53:56] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 43, Batch: 600, Loss: 0.0251
+[06:54:43] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 43, Batch: 700, Loss: 0.0310
+[06:55:29] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 43, Batch: 800, Loss: 0.0406
+[06:56:17] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 43, Batch: 900, Loss: 0.0552
+[06:57:25] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:325} INFO - Validating...
+[06:57:47] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:327} INFO - 79/89 = 0.887640
+[06:57:47] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:316} INFO - Beginning Epoch 44
+[06:58:34] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 44, Batch: 100, Loss: 0.0209
+[06:59:21] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 44, Batch: 200, Loss: 0.0393
+[07:00:08] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 44, Batch: 300, Loss: 0.1294
+[07:00:55] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 44, Batch: 400, Loss: 0.0943
+[07:01:42] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 44, Batch: 500, Loss: 0.0692
+[07:02:29] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 44, Batch: 600, Loss: 0.0479
+[07:03:16] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 44, Batch: 700, Loss: 0.0453
+[07:04:03] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 44, Batch: 800, Loss: 0.0597
+[07:04:50] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 44, Batch: 900, Loss: 0.0534
+[07:05:59] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:325} INFO - Validating...
+[07:06:21] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:327} INFO - 84/89 = 0.943820
+[07:06:21] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:316} INFO - Beginning Epoch 45
+[07:07:07] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 45, Batch: 100, Loss: 0.0356
+[07:07:54] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 45, Batch: 200, Loss: 0.0422
+[07:08:41] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 45, Batch: 300, Loss: 0.0477
+[07:09:28] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 45, Batch: 400, Loss: 0.0806
+[07:10:15] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 45, Batch: 500, Loss: 0.0336
+[07:11:02] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 45, Batch: 600, Loss: 0.0429
+[07:11:49] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 45, Batch: 700, Loss: 0.0452
+[07:12:36] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 45, Batch: 800, Loss: 0.0445
+[07:13:23] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 45, Batch: 900, Loss: 0.0306
+[07:14:32] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:325} INFO - Validating...
+[07:14:55] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:327} INFO - 82/89 = 0.921348
+[07:14:55] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:316} INFO - Beginning Epoch 46
+[07:15:42] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 46, Batch: 100, Loss: 0.1822
+[07:16:29] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 46, Batch: 200, Loss: 0.0190
+[07:17:16] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 46, Batch: 300, Loss: 0.1024
+[07:18:03] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 46, Batch: 400, Loss: 0.0787
+[07:18:51] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 46, Batch: 500, Loss: 0.0239
+[07:19:38] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 46, Batch: 600, Loss: 0.0631
+[07:20:25] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 46, Batch: 700, Loss: 0.0687
+[07:21:12] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 46, Batch: 800, Loss: 0.0899
+[07:22:00] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 46, Batch: 900, Loss: 0.0856
+[07:23:09] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:325} INFO - Validating...
+[07:23:32] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:327} INFO - 80/89 = 0.898876
+[07:23:32] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:316} INFO - Beginning Epoch 47
+[07:24:18] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 47, Batch: 100, Loss: 0.1102
+[07:25:05] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 47, Batch: 200, Loss: 0.0411
+[07:25:52] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 47, Batch: 300, Loss: 0.0812
+[07:26:39] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 47, Batch: 400, Loss: 0.0175
+[07:27:26] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 47, Batch: 500, Loss: 0.0502
+[07:28:13] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 47, Batch: 600, Loss: 0.0410
+[07:29:00] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 47, Batch: 700, Loss: 0.0724
+[07:29:47] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 47, Batch: 800, Loss: 0.0826
+[07:30:34] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 47, Batch: 900, Loss: 0.0712
+[07:31:43] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:325} INFO - Validating...
+[07:32:06] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:327} INFO - 85/89 = 0.955056
+[07:32:06] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:316} INFO - Beginning Epoch 48
+[07:32:53] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 48, Batch: 100, Loss: 0.0266
+[07:33:40] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 48, Batch: 200, Loss: 0.0614
+[07:34:27] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 48, Batch: 300, Loss: 0.0495
+[07:35:14] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 48, Batch: 400, Loss: 0.0207
+[07:36:01] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 48, Batch: 500, Loss: 0.0349
+[07:36:48] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 48, Batch: 600, Loss: 0.0320
+[07:37:35] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 48, Batch: 700, Loss: 0.0444
+[07:38:22] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 48, Batch: 800, Loss: 0.0566
+[07:39:09] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 48, Batch: 900, Loss: 0.0906
+[07:40:18] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:325} INFO - Validating...
+[07:40:40] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:327} INFO - 80/89 = 0.898876
+[07:40:40] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:316} INFO - Beginning Epoch 49
+[07:41:27] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 49, Batch: 100, Loss: 0.0687
+[07:42:14] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 49, Batch: 200, Loss: 0.1294
+[07:43:01] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 49, Batch: 300, Loss: 0.0363
+[07:43:48] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 49, Batch: 400, Loss: 0.0686
+[07:44:35] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 49, Batch: 500, Loss: 0.0414
+[07:45:22] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 49, Batch: 600, Loss: 0.0329
+[07:46:09] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 49, Batch: 700, Loss: 0.0297
+[07:46:56] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 49, Batch: 800, Loss: 0.0709
+[07:47:42] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 49, Batch: 900, Loss: 0.0328
+[07:48:52] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:325} INFO - Validating...
+[07:49:14] {c:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:327} INFO - 79/89 = 0.887640

@@ -1,0 +1,16 @@
+[23:13:54] {c:\Users\Yohannes\Desktop\M.ScThesis\Code\Grasp\hardware\device.py:10} INFO - With GPU acceleration (CUDA found).
+[23:13:54] {c:\Users\Yohannes\Desktop\M.ScThesis\Code\Grasp\train_network.py:177} INFO - Loading cornell Dataset...
+[23:13:54] {c:\Users\Yohannes\Desktop\M.ScThesis\Code\Grasp\train_network.py:185} INFO - Dataset size is 885
+[23:13:54] {c:\Users\Yohannes\Desktop\M.ScThesis\Code\Grasp\train_network.py:191} INFO - Training size: 708
+[23:13:54] {c:\Users\Yohannes\Desktop\M.ScThesis\Code\Grasp\train_network.py:192} INFO - Validation size: 177
+[23:13:54] {c:\Users\Yohannes\Desktop\M.ScThesis\Code\Grasp\train_network.py:210} INFO - Done
+[23:13:54] {c:\Users\Yohannes\Desktop\M.ScThesis\Code\Grasp\train_network.py:221} INFO - Done
+[23:13:54] {c:\Users\Yohannes\Desktop\M.ScThesis\Code\Grasp\train_network.py:230} INFO - Epoch Number 00
+[23:14:33] {c:\Users\Yohannes\Desktop\M.ScThesis\Code\Grasp\train_network.py:127} INFO - Epoch: 0, Batch: 10, Loss: 0.9024
+[23:14:43] {c:\Users\Yohannes\Desktop\M.ScThesis\Code\Grasp\train_network.py:127} INFO - Epoch: 0, Batch: 20, Loss: 0.2144
+[23:15:20] {c:\Users\Yohannes\Desktop\M.ScThesis\Code\Grasp\train_network.py:127} INFO - Epoch: 0, Batch: 30, Loss: 0.0763
+[23:15:30] {c:\Users\Yohannes\Desktop\M.ScThesis\Code\Grasp\train_network.py:127} INFO - Epoch: 0, Batch: 40, Loss: 0.1247
+[23:16:06] {c:\Users\Yohannes\Desktop\M.ScThesis\Code\Grasp\train_network.py:127} INFO - Epoch: 0, Batch: 50, Loss: 0.0963
+[23:16:16] {c:\Users\Yohannes\Desktop\M.ScThesis\Code\Grasp\train_network.py:127} INFO - Epoch: 0, Batch: 60, Loss: 0.0894
+[23:16:51] {c:\Users\Yohannes\Desktop\M.ScThesis\Code\Grasp\train_network.py:127} INFO - Epoch: 0, Batch: 70, Loss: 0.0959
+[23:17:01] {c:\Users\Yohannes\Desktop\M.ScThesis\Code\Grasp\train_network.py:127} INFO - Epoch: 0, Batch: 80, Loss: 0.1344

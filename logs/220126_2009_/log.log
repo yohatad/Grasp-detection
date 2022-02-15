@@ -1,0 +1,6 @@
+[20:09:33] {c:\Users\Yohannes\Desktop\M.ScThesis\Code\Grasp\hardware\device.py:10} INFO - With GPU acceleration (CUDA found).
+[20:09:33] {c:\Users\Yohannes\Desktop\M.ScThesis\Code\Grasp\train_network.py:178} INFO - Loading cornell Dataset...
+[20:09:33] {c:\Users\Yohannes\Desktop\M.ScThesis\Code\Grasp\train_network.py:186} INFO - Dataset size is 885
+[20:09:33] {c:\Users\Yohannes\Desktop\M.ScThesis\Code\Grasp\train_network.py:192} INFO - Training size: 796
+[20:09:33] {c:\Users\Yohannes\Desktop\M.ScThesis\Code\Grasp\train_network.py:193} INFO - Validation size: 89
+[20:09:33] {c:\Users\Yohannes\Desktop\M.ScThesis\Code\Grasp\train_network.py:211} INFO - Done

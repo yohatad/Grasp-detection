@@ -1,0 +1,11 @@
+[19:08:38] {C:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\hardware\device.py:10} INFO - With GPU acceleration (CUDA found).
+[19:08:38] {C:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:246} INFO - Loading Cornell Dataset...
+[19:08:38] {C:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:255} INFO - Dataset size is 885
+[19:08:38] {C:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:264} INFO - Training size: 796
+[19:08:38] {C:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:265} INFO - Validation size: 89
+[19:08:38] {C:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:283} INFO - Done
+[19:08:38] {C:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:286} INFO - Loading Network...
+[19:08:38] {C:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:297} INFO - Done
+[19:08:47] {C:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:316} INFO - Beginning Epoch 00
+[19:10:34] {C:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 0, Batch: 100, Loss: 0.0854
+[19:12:42] {C:\Users\Yohannes\Desktop\M.Sc Thesis\Code\Grasp\train_network.py:175} INFO - Epoch: 0, Batch: 200, Loss: 0.0547

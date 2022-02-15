@@ -1,0 +1,8 @@
+[20:22:07] {c:\Users\Yohannes\Desktop\M.ScThesis\Code\Grasp\hardware\device.py:9} INFO - With GPU acceleration (CUDA found).
+[20:22:07] {c:\Users\Yohannes\Desktop\M.ScThesis\Code\Grasp\train.py:174} INFO - Loading cornell Dataset...
+[20:22:07] {c:\Users\Yohannes\Desktop\M.ScThesis\Code\Grasp\train.py:182} INFO - Dataset size is 885
+[20:22:07] {c:\Users\Yohannes\Desktop\M.ScThesis\Code\Grasp\train.py:188} INFO - Training size: 796
+[20:22:07] {c:\Users\Yohannes\Desktop\M.ScThesis\Code\Grasp\train.py:189} INFO - Validation size: 89
+[20:22:07] {c:\Users\Yohannes\Desktop\M.ScThesis\Code\Grasp\train.py:207} INFO - Done
+[20:22:07] {c:\Users\Yohannes\Desktop\M.ScThesis\Code\Grasp\train.py:218} INFO - Done
+[20:22:07] {c:\Users\Yohannes\Desktop\M.ScThesis\Code\Grasp\train.py:227} INFO - Epoch Number 00
